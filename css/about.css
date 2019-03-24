@@ -1,0 +1,71 @@
+/* about*/
+
+
+.imagecontainer {
+    width:350px; 
+    height:95px; 
+    background:rgb(48, 101, 247);
+    text-align: center;
+    color: white;
+    margin: 0px auto;
+    border-radius: 25px;
+    
+  }
+  .txt{
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
+    font-size: 3em;
+  
+  }
+.container{
+    margin-top: 30px;
+    font-family: 'Merriweather', serif;
+}  
+
+.cont1{
+    
+    background: rgb(238, 176, 6);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: white
+}
+.cont2{
+    
+    background: rgb(221, 107, 98);
+    margin-bottom: 10px;
+    color: white
+   
+}
+.cont3{
+   
+    background: rgb(71, 111, 219);
+    margin-left: 10px;
+    color: white
+}
+.cont4{
+    
+    background: rgb(63, 212, 108);
+    color: white
+}
+
+
+.cardiv{
+    text-align: center;
+   
+    width: 100px;
+  height: 200px;
+ 
+  padding: 25px;
+  margin: 0 auto;
+}
+ 
+
+.car_head{
+    font-family: 'Sniglet', cursive; color: rgb(45, 45, 175)
+}
+
+.parap{
+    
+    margin: 0px auto;
+}
